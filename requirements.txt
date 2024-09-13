@@ -1,5 +1,7 @@
-Flask
-numpy
-scikit-learn
 pandas
-joblib
+numpy
+matplotlib
+seaborn
+scikit-learn
+os
+pickle
